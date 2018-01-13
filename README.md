@@ -1,6 +1,6 @@
 # DClaims - A Verifiable Claims Platform
 
-**note:** We are in the process of renaming this project from Hypercerts to DClaims. For that reason the previous name, Hypercerts, might still appear in some code and documentation.
+**note:** We are in the process of renaming this project from **Hypercerts** to **DClaims**. For that reason the previous name, Hypercerts, might still appear in some code and documentation.
 
 Welcome to DClaims! The project is under active development and the information on this page is going to be changing a lot in the next months, be sure to stay up to date. 😁
 
